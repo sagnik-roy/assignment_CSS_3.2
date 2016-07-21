@@ -1,0 +1,30 @@
+
+
+.head-image img{
+    display: block;
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+.head-text h1 {
+    color: #464646;
+    padding-top: 10px;
+    font-size: 60px;
+
+}
+.head-text span  {
+    color:#21759b;
+}
+.head-text ::first-letter{
+    font-size:130%;
+}
+
+
+.body img{
+   
+    width:60px;
+    height:60px;
+    
+   
+}
